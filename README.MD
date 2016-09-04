@@ -8,6 +8,7 @@ Pandas provide flexible data structure for data manipulation. If you are interes
 ## Why Machine Learning ?
 
 If you stop for a moment and think about ‘how the movement of data science is taking place’, you probably point out following stages :
+
 1. Development of chips and storage : PERIOD I
 2. Development of infrastructures to store large data : PERIOD II
 3. Development of Data Science to manipulate large data : PERIOD III
